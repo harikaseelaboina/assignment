@@ -1,0 +1,48 @@
+.maincon{
+    height:500px;
+    /* background: linear-gradient(to right, #e6dade,
+                    #ad8da5, #cf23cf, #d6beca); */
+    background-image: url("https://img.freepik.com/premium-vector/white-color-technology-abstract-background-vector-illustration-modern-design-concept_29865-4088.jpg");
+    background-size: cover;
+}
+
+
+
+
+.shape{
+    margin-left: 500px;
+    color:rgb(224, 158, 219)
+} 
+
+.head1{
+    text-align: start;
+    
+    padding-top: 100px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+para1{
+    font-weight: 600;
+}
+
+.item1{
+    text-align: start;
+ margin-top: 10%;
+ height: 90px;
+}
+.text1{
+    padding-left: 150px;
+}
+
+.web{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    align-items: flex-end;
+    font-size: 90px;
+    font-weight: 100;
+    background: linear-gradient(to right, #f32170,
+                    #ff6b08, #cf23cf, #eedd44);
+                    -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+}

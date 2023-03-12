@@ -1,0 +1,43 @@
+.maincon1{
+    position: relative;
+    text-align: center;
+    box-shadow: 10px;
+    height: 500px;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.jpg?w=360");
+}
+
+.headele{
+    color: rgb(241, 211, 40);
+    font-weight: bold;
+    font-size: 60px;
+}
+.headele1{
+    color: rgb(241, 211, 40);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.headele2{
+    color: antiquewhite;
+    font-weight: bold;
+}
+.matcon{
+    position: absolute;
+    z-index: 5;
+    top: 70px;
+}
+.btnn{
+    background-color: transparent;
+    border: 2px solid  rgb(90, 86, 86);
+    font-weight: bolder;
+
+}
+
+.imgcon{
+    height: 450px;
+    
+    position:absolute;
+    top: 195px;
+    z-index: 3;
+}
