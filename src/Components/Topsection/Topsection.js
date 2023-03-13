@@ -9,6 +9,7 @@ import Man from '../Man'
 const Topsection = () => {
   return (
     <>
+   
     <div className='container'>
       <div className='row'>
         <div className='col-12'>
@@ -63,6 +64,7 @@ const Topsection = () => {
         </div> 
         </div>
         </div>
+        
     </>
   )
 }

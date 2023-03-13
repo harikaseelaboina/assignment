@@ -9,6 +9,7 @@ import Bottomsec from './Components/Bottomsec/Bottomsec'
 const App = () => {
   return (
     <div>
+      
       <Topsection/>
       <Secondsec/>
       <Thirdsec/>
@@ -16,6 +17,7 @@ const App = () => {
       <Fifthsec/>
       <Sixthsec/>
       <Bottomsec/>
+      
     </div>
   )
 }
